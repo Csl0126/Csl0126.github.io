@@ -3,7 +3,11 @@
   {{- partial "head.html" . -}}
   <body>
     {{- partial "header.html" . -}}
-    <main>{{- block "main" . }}{{- end }}</main>
+    <main>
+      <div class="container-fluid" style="max-width: 1000px">
+        {{- block "main" . }}{{- end }}
+      </div>
+    </main>
     {{- partial "footer.html" . -}} {{- partial "bootstrap-bundle.html" . -}}
   </body>
 </html>
