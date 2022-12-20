@@ -6,3 +6,6 @@ title = 'My New Hugo Site'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[taxonomies]
+tag = "tag"
