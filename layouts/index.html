@@ -1,1 +1,89 @@
-{{ define "main" }} This is home page {{ .Content }} {{ end }}
+{{ define "main" }}
+
+<div class="container mt-4 p-4 pb-2 border border-2 rounded-3 border-secondary">
+  <div class="row">
+    <div class="col-3">
+      <img src="/profile.png" class="w-100" />
+    </div>
+    <div class="col-9">
+      <h2>About Me</h2>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+        velit esse cillum dolore eu fugiat nulla pariatur.
+      </p>
+    </div>
+  </div>
+</div>
+<div class="container mt-4 p-0">
+  <h2>Latest Posts</h2>
+  <div class="container text-center my-3 p-0">
+    <div class="row mx-auto my-auto justify-content-center">
+      <div id="recipeCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+          {{ range first 1 .Site.RegularPages }}
+          <div class="carousel-item active">
+            <div class="col-md-3">
+              <div class="card">
+                <div class="card-img">
+                  <img src="/profile.png" class="img-fluid" />
+                </div>
+                <div class="card-img-overlay">{{ .Title }}</div>
+              </div>
+            </div>
+          </div>
+          {{ end }} {{ range first 5 (after 1 .Site.RegularPages) }}
+          <div class="carousel-item">
+            <div class="col-md-3">
+              <div class="card">
+                <div class="card-img">
+                  <img src="/sky.png" class="img-fluid" />
+                </div>
+                <div class="card-img-overlay">{{ .Title }}</div>
+              </div>
+            </div>
+          </div>
+          {{ end }}
+        </div>
+        <a
+          class="carousel-control-prev bg-transparent w-aut"
+          href="#recipeCarousel"
+          role="button"
+          data-bs-slide="prev"
+        >
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        </a>
+        <a
+          class="carousel-control-next bg-transparent w-aut"
+          href="#recipeCarousel"
+          role="button"
+          data-bs-slide="next"
+        >
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  let items = document.querySelectorAll(".carousel .carousel-item");
+
+  items.forEach((el) => {
+    const minPerSlide = 4;
+    let next = el.nextElementSibling;
+    for (var i = 1; i < minPerSlide; i++) {
+      if (!next) {
+        // wrap carousel by using first child
+        next = items[0];
+      }
+      let cloneChild = next.cloneNode(true);
+      el.appendChild(cloneChild.children[0]);
+      next = next.nextElementSibling;
+    }
+  });
+</script>
+
+{{ end }}
