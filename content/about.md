@@ -13,8 +13,6 @@ I have two cute black kitten and i missed them :(
 
 ** I cut off with a lot of fair-weather friends, cleaned my circles and continue living my life. Things that 2022 has taught me : "it is what it is, people come and go and that's life." 
 
-image: "/image.png"
-
 
 #### What I am doing right now :
 
