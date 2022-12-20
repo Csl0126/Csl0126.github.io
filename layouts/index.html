@@ -13,6 +13,7 @@
         veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
         commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
         velit esse cillum dolore eu fugiat nulla pariatur.
+        <a href="/about">Read More</a>
       </p>
     </div>
   </div>
@@ -28,9 +29,15 @@
             <div class="col-md-3">
               <div class="card">
                 <div class="card-img">
-                  <img src="/profile.png" class="img-fluid" />
+                  <img
+                    src="{{ .Params.image }}"
+                    class="card-img-top"
+                    style="height: 160px; object-fit: cover"
+                  />
                 </div>
-                <div class="card-img-overlay">{{ .Title }}</div>
+                <div class="card-text" style="background-color: #f3f3f3">
+                  {{ .Title }}
+                </div>
               </div>
             </div>
           </div>
@@ -39,9 +46,15 @@
             <div class="col-md-3">
               <div class="card">
                 <div class="card-img">
-                  <img src="/sky.png" class="img-fluid" />
+                  <img
+                    src="{{ .Params.image }}"
+                    class="card-img-top img-fluid"
+                    style="height: 160px; object-fit: cover"
+                  />
                 </div>
-                <div class="card-img-overlay">{{ .Title }}</div>
+                <div class="card-text" style="background-color: #f3f3f3">
+                  {{ .Title }}
+                </div>
               </div>
             </div>
           </div>
