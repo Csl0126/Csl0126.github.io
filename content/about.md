@@ -12,7 +12,7 @@ image: "/me2.jpg"
 <div class="col-9">
     <h2>Self-intro 😶‍🌫️</h2>
     <p>
-    Hello hoomans, I'm Sok Ling! (People also call me "CSL") I was born in 01 and currently pursuing an external degree of UOL in BSc Accounting & Finance (Year 2 now) in Help Academy, Malaysia. I enjoy listening to the music when I study and I usually like to take photo of nice views and good foods. I was once an athlete, I used to play 🏀 and represent the states :) I'm learning make-up, learning about investments, learning about how to cook and trying to maintain a healthy lifestyle🤪. I created this website just wanted to post random things, memories as part of my life! I'm living my life to the fullest and loving myself❤️‍🩹. If you're reading to my intro right now, i wish you all the best in life and continue to explore my website hehehe💫. Cheers! 
+    Hello hoomans, I'm Sok Ling! (People also call me "CSL") I was born in 01 and currently pursuing an external degree of UOL in BSc Accounting & Finance (Year 2 now) in Help Academy, Malaysia. I enjoy listening to the music when I study and I usually like to take photo of nice views and good foods. I was once an athlete, I used to play 🏀 and represent the my state :) I'm learning make-up, learning about investments, learning about how to cook and trying to maintain a healthy lifestyle🤪. I created this website just wanted to post random things, memories as part of my life! I'm living my life to the fullest and loving myself❤️‍🩹. If you're reading to my intro right now, i wish you all the best in life and continue to explore my website hehehe💫. Cheers! 
     </p>
 </div>
 </div>
