@@ -21,7 +21,10 @@
       <div id="recipeCarousel" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner" role="listbox">
           {{ range first 1 .Site.RegularPages }}
-          <div class="carousel-item active">
+          <div
+            class="carousel-item active"
+            onclick="location.href='{{ .Permalink }}';"
+          >
             <div class="col-md-3">
               <div class="card">
                 <div class="card-img">
@@ -38,7 +41,10 @@
             </div>
           </div>
           {{ end }} {{ range first 5 (after 1 .Site.RegularPages) }}
-          <div class="carousel-item">
+          <div
+            class="carousel-item"
+            onclick="location.href='{{ .Permalink }}';"
+          >
             <div class="col-md-3">
               <div class="card">
                 <div class="card-img">
