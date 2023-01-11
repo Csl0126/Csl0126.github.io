@@ -34,3 +34,9 @@
 p {
   text-align: justify;
 }
+
+.post section img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
