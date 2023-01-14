@@ -2,7 +2,7 @@
 title: ""
 ---
 
-##### **Hi, I'm Sok Ling!**
+##### **Hi, I'm CSL!**
 
 - **A second year Accounting & Finance student 💰**
 - **An extroverted-introvert (ambivert) xD**
