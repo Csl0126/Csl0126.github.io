@@ -3,7 +3,7 @@ title: "Rottnest Island"
 date: 2023-01-11T21:15:29+08:00
 image: "/Quokka.jpg"
 ---
-## **Trip to Rottnest Island** - **Visited on 29 Dec 2022**
+### Trip to Rottnest Island - Visited on 29 Dec 2022
 
 ![](/freo.jpg)
 
