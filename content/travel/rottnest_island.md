@@ -1,9 +1,11 @@
 ---
 title: "Rottnest Island"
 date: 2023-01-11T21:15:29+08:00
-image: "/Quokka.jpg"
+image: "/rottnest.jpg"
 ---
 ### Trip to Rottnest Island - Visited on 29 Dec 2022
+##### Best memories ever in my life! I appreciate and cherish every moment we had together❤️~
+##### We laughed like a child, how happy haha 😆
 
 ![](/freo.jpg)
 
@@ -60,3 +62,5 @@ image: "/Quokka.jpg"
 
 ![](/bb.jpg)
 ###### Yeng 😎
+
+#### END of the blog, gudbye~

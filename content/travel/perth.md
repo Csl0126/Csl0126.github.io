@@ -12,9 +12,9 @@ This is my first time ever to travel abroad and I'm travelling solo😝
 
 ![](/building.jpg)  
 
-![](/street7.jpg)
+![](/street7.JPG)
 
-![](/play.jpg)
+![](/play.JPG)
 
 ![](/swan.jpg)  
 ###### Seeing a black swan for the first time in my life, however it is not what i expected 🥲 so ugly HAHAHA
@@ -25,7 +25,7 @@ This is my first time ever to travel abroad and I'm travelling solo😝
 ![](/kgroo.jpg) 
 ###### What a funny face 🤔 He looks like wanna fight!! 
 
-![](/kgroo3.jpg)
+![](/kgroo3.JPG)
  
 ![](/london.jpg)
 ###### London Court that is not in London 🤪
@@ -35,9 +35,9 @@ This is my first time ever to travel abroad and I'm travelling solo😝
 ![](/street.jpg)
 ###### This city is so beautiful and clean! 🥰
 
-![](/street5.jpg)
+![](/street5.JPG)
 
-![](/me5.jpg)
+![](/me5.JPG)
 ###### hehehe smile xD
 
 ![](/street2.jpg)
@@ -51,18 +51,18 @@ This is my first time ever to travel abroad and I'm travelling solo😝
 
 ![](/tree.jpg)
 
-![](/tree2.jpg)
+![](/tree2.JPG)
 
-![](/boat2.jpg)
+![](/boat2.JPG)
 ###### Blue Boat House and the blue blue sky 💓
 
-![](/me2.jpg)
+![](/me2.JPG)
 
-![](/sunset.jpg)
+![](/sunset.JPG)
 ###### Sunset view from swan river - opposite of Elizabeth Quay 🌅
 
-![](/play2.jpg)
+![](/play2.JPG)
 ###### FunFair event !!!
 
-![](/street6.jpg)
+![](/street6.JPG)
 ###### I miss living in Perth :( Wish I could go back again soon!!!
