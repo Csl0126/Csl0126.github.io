@@ -11,8 +11,14 @@
     {{ range where .Site.Taxonomies.tag ".Page.Section" "food" }}
     <div class="col-md-4 col-sm-6">
       <div class="card w-100">
-        <a href="{{ .Page.Permalink }}"><img class="card-img-top" src="/sky.png"></a>
-          <div class="card-text text-center">{{ .Page.Title }}</div>
+        <a href="{{ .Page.Permalink }}"
+          ><img
+            class="card-img-top"
+            style="object-fit: cover"
+            src="/food_tag_images/{{ .Page.Title }}.jpg"
+            height="200"
+        /></a>
+        <div class="card-text text-center">{{ .Page.Title }}</div>
       </div>
     </div>
     {{ end }}
