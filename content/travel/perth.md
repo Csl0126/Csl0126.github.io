@@ -8,7 +8,7 @@ image: "/perth.png"
 This is my first time ever to travel abroad and I'm travelling solo😝 
 
 
-![](/cbd.jpg)
+![image](../../static/cbd.jpg)
 ###### Perth CBD - It's only at the opposite of train station 😏
 
 ![](/building.jpg)  
