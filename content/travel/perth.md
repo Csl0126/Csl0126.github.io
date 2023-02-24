@@ -8,7 +8,7 @@ image: "/perth.png"
 This is my first time ever to travel abroad and I'm travelling solo😝 
 
 
-![image](../../static/cbd.jpg)
+![image](/cbd.jpg)
 ###### Perth CBD - It's only at the opposite of train station 😏
 
 ![](/building.jpg)  
@@ -57,7 +57,7 @@ This is my first time ever to travel abroad and I'm travelling solo😝
 ![](/boat2.JPG)
 ###### Blue Boat House and the blue blue sky 💓
 
-![](/me2.JPG)
+![](/me2.jpg)
 
 ![](/sunset.JPG)
 ###### Sunset view from swan river - opposite of Elizabeth Quay 🌅
