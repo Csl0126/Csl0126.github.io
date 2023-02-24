@@ -7,6 +7,7 @@ image: "/perth.png"
 ### Perth Trip (23 Dec 2022 - 09 Jan 2023)
 This is my first time ever to travel abroad and I'm travelling solo😝 
 
+
 ![](/cbd.jpg)
 ###### Perth CBD - It's only at the opposite of train station 😏
 
