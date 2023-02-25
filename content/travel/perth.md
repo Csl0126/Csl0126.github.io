@@ -1,7 +1,7 @@
 ---
 title: "Perth"
 date: 2023-01-11T16:47:21+08:00
-image: "/perth.png"
+image: "/perth.jpg"
 ---
 
 ### Perth Trip (23 Dec 2022 - 09 Jan 2023)
