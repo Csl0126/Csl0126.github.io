@@ -10,3 +10,5 @@ image: "/perth.png"
 * Home - Zach Sorgen 
 * Countryside - Curtis Cole
 * Atlantis - Seafret 
+* 慢热 - 满舒克
+* 青涩拾年 - 周翔
