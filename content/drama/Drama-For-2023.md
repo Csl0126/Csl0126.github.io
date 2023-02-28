@@ -4,5 +4,6 @@ date: 2023-01-01T23:52:34+08:00
 image: "/thought 2.jpg"
 ---
 
-* Tomorrow 
+* Tomorrow
+* Soul (心灵奇旅) 
   
