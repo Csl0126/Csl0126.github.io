@@ -31,7 +31,7 @@ image: "/rottnest.jpg"
 ![](/quokka4.jpg)
 ###### Mama quokka cuddling baby quokka sleep tgt!! so kiutttt!!! Cuteness : ∞/100
 
-![](/Quokka.jpg)
+![](/quokka.jpg)
 ###### I look cute like the Quokka omg🤭
 
 ![](/quokka6.jpg)
